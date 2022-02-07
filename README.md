@@ -1,5 +1,5 @@
 # CDIMC-net: Cognitive Deep Incomplete Multi-view Clustering Network
-This is an example implementation of our paper:
+This is an example implementation of [our paper](https://www.ijcai.org/proceedings/2020/0447.pdf):
 
 Jie Wen, Zheng Zhang, Xu Yong, Zhang Bob, Fei Lunke, Xie Guo-Sen, CDIMC-net: Cognitive Deep Incomplete Multi-view Clustering Network, International Joint Conference on Artificial Intelligence, 2020, 3230-3236. 
 
